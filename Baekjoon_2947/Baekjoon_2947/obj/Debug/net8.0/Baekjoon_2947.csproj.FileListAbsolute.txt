@@ -1,0 +1,14 @@
+D:\Baekjoon\Baekjoon_2947\Baekjoon_2947\bin\Debug\net8.0\Baekjoon_2947.exe
+D:\Baekjoon\Baekjoon_2947\Baekjoon_2947\bin\Debug\net8.0\Baekjoon_2947.deps.json
+D:\Baekjoon\Baekjoon_2947\Baekjoon_2947\bin\Debug\net8.0\Baekjoon_2947.runtimeconfig.json
+D:\Baekjoon\Baekjoon_2947\Baekjoon_2947\bin\Debug\net8.0\Baekjoon_2947.dll
+D:\Baekjoon\Baekjoon_2947\Baekjoon_2947\bin\Debug\net8.0\Baekjoon_2947.pdb
+D:\Baekjoon\Baekjoon_2947\Baekjoon_2947\obj\Debug\net8.0\Baekjoon_2947.GeneratedMSBuildEditorConfig.editorconfig
+D:\Baekjoon\Baekjoon_2947\Baekjoon_2947\obj\Debug\net8.0\Baekjoon_2947.AssemblyInfoInputs.cache
+D:\Baekjoon\Baekjoon_2947\Baekjoon_2947\obj\Debug\net8.0\Baekjoon_2947.AssemblyInfo.cs
+D:\Baekjoon\Baekjoon_2947\Baekjoon_2947\obj\Debug\net8.0\Baekjoon_2947.csproj.CoreCompileInputs.cache
+D:\Baekjoon\Baekjoon_2947\Baekjoon_2947\obj\Debug\net8.0\Baekjoon_2947.dll
+D:\Baekjoon\Baekjoon_2947\Baekjoon_2947\obj\Debug\net8.0\refint\Baekjoon_2947.dll
+D:\Baekjoon\Baekjoon_2947\Baekjoon_2947\obj\Debug\net8.0\Baekjoon_2947.pdb
+D:\Baekjoon\Baekjoon_2947\Baekjoon_2947\obj\Debug\net8.0\Baekjoon_2947.genruntimeconfig.cache
+D:\Baekjoon\Baekjoon_2947\Baekjoon_2947\obj\Debug\net8.0\ref\Baekjoon_2947.dll
