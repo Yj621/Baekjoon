@@ -1,40 +1,34 @@
-﻿namespace Baekjoon_20364
+﻿StreamReader sr = new StreamReader(new BufferedStream(Console.OpenStandardInput()));
+StreamWriter sw = new StreamWriter(new BufferedStream(Console.OpenStandardOutput()));
+
+int n, q;
+
+string[] strs = sr.ReadLine().Split(' ');
+
+n = int.Parse(strs[0]);
+q = int.Parse(strs[1]);
+
+int[] duck = new int[n + 1];
+int[] arr = new int[n + 1];
+
+for (int i = 0; i < q; i++)
 {
-    internal class Program
+    duck[i] = int.Parse(sr.ReadLine());
+
+    int index = duck[i];
+
+    int blocked = 0;
+
+    while (index > 0)
     {
-        static void Main(string[] args)
-        {
-            StreamReader sr = new StreamReader(new BufferedStream(Console.OpenStandardInput()));
-            StreamWriter sw = new StreamWriter(new BufferedStream(Console.OpenStandardOutput()));
-            string[] input = sr.ReadLine().Split();
+        if (arr[index] != 0) blocked = arr[index];
 
-            int N = int.Parse(input[0]);
-            int Q = int.Parse(input[1]);
-            bool[] occupy = new bool[N + 1];
-
-            while (Q > 0)
-            {
-                Q -= 1;
-
-                int x = int.Parse(sr.ReadLine());
-                int blocked = 0;
-
-                for (int i = x; i > 0; i /= 2)
-                {
-                    if (occupy[i])
-                    {
-                        blocked = i;
-                    }
-                }
-
-                sw.WriteLine(blocked);
-                if (blocked == 0)
-                {
-                    occupy[x] = true;
-                }
-            }
-            sr.Close();
-            sw.Close();
-        }
+        index /= 2;
     }
+
+    arr[duck[i]] = duck[i];
+
+    sw.WriteLine(blocked.ToString());
 }
+sr.Close();
+sw.Close();
