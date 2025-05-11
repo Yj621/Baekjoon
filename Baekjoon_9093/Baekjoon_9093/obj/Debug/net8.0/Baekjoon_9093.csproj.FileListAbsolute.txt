@@ -1,0 +1,14 @@
+D:\Baekjoon\Baekjoon_9093\Baekjoon_9093\bin\Debug\net8.0\Baekjoon_9093.exe
+D:\Baekjoon\Baekjoon_9093\Baekjoon_9093\bin\Debug\net8.0\Baekjoon_9093.deps.json
+D:\Baekjoon\Baekjoon_9093\Baekjoon_9093\bin\Debug\net8.0\Baekjoon_9093.runtimeconfig.json
+D:\Baekjoon\Baekjoon_9093\Baekjoon_9093\bin\Debug\net8.0\Baekjoon_9093.dll
+D:\Baekjoon\Baekjoon_9093\Baekjoon_9093\bin\Debug\net8.0\Baekjoon_9093.pdb
+D:\Baekjoon\Baekjoon_9093\Baekjoon_9093\obj\Debug\net8.0\Baekjoon_9093.GeneratedMSBuildEditorConfig.editorconfig
+D:\Baekjoon\Baekjoon_9093\Baekjoon_9093\obj\Debug\net8.0\Baekjoon_9093.AssemblyInfoInputs.cache
+D:\Baekjoon\Baekjoon_9093\Baekjoon_9093\obj\Debug\net8.0\Baekjoon_9093.AssemblyInfo.cs
+D:\Baekjoon\Baekjoon_9093\Baekjoon_9093\obj\Debug\net8.0\Baekjoon_9093.csproj.CoreCompileInputs.cache
+D:\Baekjoon\Baekjoon_9093\Baekjoon_9093\obj\Debug\net8.0\Baekjoon_9093.dll
+D:\Baekjoon\Baekjoon_9093\Baekjoon_9093\obj\Debug\net8.0\refint\Baekjoon_9093.dll
+D:\Baekjoon\Baekjoon_9093\Baekjoon_9093\obj\Debug\net8.0\Baekjoon_9093.pdb
+D:\Baekjoon\Baekjoon_9093\Baekjoon_9093\obj\Debug\net8.0\Baekjoon_9093.genruntimeconfig.cache
+D:\Baekjoon\Baekjoon_9093\Baekjoon_9093\obj\Debug\net8.0\ref\Baekjoon_9093.dll

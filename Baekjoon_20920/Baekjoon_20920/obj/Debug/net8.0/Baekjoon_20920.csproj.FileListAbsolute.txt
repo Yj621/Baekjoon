@@ -1,0 +1,15 @@
+D:\git\Baekjoon\Baekjoon_20920\Baekjoon_20920\obj\Debug\net8.0\Baekjoon_20920.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Baekjoon\Baekjoon_20920\Baekjoon_20920\obj\Debug\net8.0\Baekjoon_20920.AssemblyInfoInputs.cache
+D:\git\Baekjoon\Baekjoon_20920\Baekjoon_20920\obj\Debug\net8.0\Baekjoon_20920.AssemblyInfo.cs
+D:\git\Baekjoon\Baekjoon_20920\Baekjoon_20920\obj\Debug\net8.0\Baekjoon_20920.csproj.CoreCompileInputs.cache
+D:\git\Baekjoon\Baekjoon_20920\Baekjoon_20920\obj\Debug\net8.0\Baekjoon_20920.sourcelink.json
+D:\git\Baekjoon\Baekjoon_20920\Baekjoon_20920\bin\Debug\net8.0\Baekjoon_20920.exe
+D:\git\Baekjoon\Baekjoon_20920\Baekjoon_20920\bin\Debug\net8.0\Baekjoon_20920.deps.json
+D:\git\Baekjoon\Baekjoon_20920\Baekjoon_20920\bin\Debug\net8.0\Baekjoon_20920.runtimeconfig.json
+D:\git\Baekjoon\Baekjoon_20920\Baekjoon_20920\bin\Debug\net8.0\Baekjoon_20920.dll
+D:\git\Baekjoon\Baekjoon_20920\Baekjoon_20920\bin\Debug\net8.0\Baekjoon_20920.pdb
+D:\git\Baekjoon\Baekjoon_20920\Baekjoon_20920\obj\Debug\net8.0\Baekjoon_20920.dll
+D:\git\Baekjoon\Baekjoon_20920\Baekjoon_20920\obj\Debug\net8.0\refint\Baekjoon_20920.dll
+D:\git\Baekjoon\Baekjoon_20920\Baekjoon_20920\obj\Debug\net8.0\Baekjoon_20920.pdb
+D:\git\Baekjoon\Baekjoon_20920\Baekjoon_20920\obj\Debug\net8.0\Baekjoon_20920.genruntimeconfig.cache
+D:\git\Baekjoon\Baekjoon_20920\Baekjoon_20920\obj\Debug\net8.0\ref\Baekjoon_20920.dll
