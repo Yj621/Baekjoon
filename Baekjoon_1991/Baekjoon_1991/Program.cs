@@ -2,10 +2,10 @@
 {
     public class Node
     {
-        public int data;
+        public char data;
         public Node left, right;
 
-        public Node(int data)
+        public Node(char data)
         {
             this.data = data;
             left = right = null;
@@ -14,44 +14,68 @@
 
     public class BinaryTree
     {
-        public Node root;
+        public Node Root;
 
-        void PrintPreorder(Node node)
+        public void Add(char parent, char left, char right)
+        {
+            if(Root == null)
+            {
+                Root = new Node(parent);
+            }
+            Node pNode = Find(Root, parent);
+            if (pNode == null) return;
+
+            if (left != '.')
+                pNode.left = new Node(left);
+            if (right != '.')
+                pNode.right = new Node(right);
+
+        }
+        private Node Find(Node node, char data)
+        {
+            if (node == null) return null;
+            if (node.data == data) return node;
+
+            Node found = Find(node.left, data);
+            if (found == null)
+                found = Find(node.right, data);
+
+            return found;
+        }
+
+        public void PrintPreorder(Node node)
         {
             if (node == null)
             {
                 return;
             }
-            Console.Write(node.data + " ");
+            Console.Write(node.data);
             PrintPreorder(node.left);
             PrintPreorder(node.right);
         }
 
-        void PrintInorder(Node node)
+        public void PrintInorder(Node node)
         {
             if (node == null)
             {
                 return;
             }
-            PrintPreorder(node.left);
-            Console.Write(node.data + " ");
-            PrintPreorder(node.right);
+            PrintInorder(node.left);
+            Console.Write(node.data);
+            PrintInorder(node.right);
         }
 
-        void PrintPostorder(Node node)
+        public void PrintPostorder(Node node)
         {
             if (node == null)
             {
                 return;
             }
-            PrintPreorder(node.left);
-            PrintPreorder(node.right);
-            Console.Write(node.data + " ");
+            PrintPostorder(node.left);
+            PrintPostorder(node.right);
+            Console.Write(node.data);
         }
 
-        public void PrintPreorder() { PrintPreorder(root); }
-        public void PrintInorder() { PrintInorder(root); }
-        public void PrintPostorder() { PrintPostorder(root); }
     }
     class Program
     {
@@ -66,15 +90,17 @@
                 char parent = parts[0][0];
                 char left = parts[1][0];
                 char right = parts[2][0];
+
+                tree.Add(parent, left, right);  
             }
 
-            tree.PrintPreorder();
+            tree.PrintPreorder(tree.Root);
             Console.WriteLine();
 
-            tree.PrintInorder();
+            tree.PrintInorder(tree.Root);
             Console.WriteLine();
 
-            tree.PrintPostorder();
+            tree.PrintPostorder(tree.Root);
             Console.WriteLine();
         }
     }
