@@ -1,0 +1,15 @@
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_9095/bin/Debug/net8.0/Baekjoon_9095
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_9095/bin/Debug/net8.0/Baekjoon_9095.deps.json
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_9095/bin/Debug/net8.0/Baekjoon_9095.runtimeconfig.json
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_9095/bin/Debug/net8.0/Baekjoon_9095.dll
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_9095/bin/Debug/net8.0/Baekjoon_9095.pdb
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_9095/obj/Debug/net8.0/Baekjoon_9095.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_9095/obj/Debug/net8.0/Baekjoon_9095.AssemblyInfoInputs.cache
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_9095/obj/Debug/net8.0/Baekjoon_9095.AssemblyInfo.cs
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_9095/obj/Debug/net8.0/Baekjoon_9095.csproj.CoreCompileInputs.cache
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_9095/obj/Debug/net8.0/Baekjoon_9095.sourcelink.json
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_9095/obj/Debug/net8.0/Baekjoon_9095.dll
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_9095/obj/Debug/net8.0/refint/Baekjoon_9095.dll
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_9095/obj/Debug/net8.0/Baekjoon_9095.pdb
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_9095/obj/Debug/net8.0/Baekjoon_9095.genruntimeconfig.cache
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_9095/obj/Debug/net8.0/ref/Baekjoon_9095.dll

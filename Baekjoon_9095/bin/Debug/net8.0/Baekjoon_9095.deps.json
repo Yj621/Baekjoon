@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Baekjoon_9095/1.0.0": {
+        "runtime": {
+          "Baekjoon_9095.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Baekjoon_9095/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
