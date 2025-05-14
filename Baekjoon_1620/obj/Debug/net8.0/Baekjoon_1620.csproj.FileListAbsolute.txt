@@ -1,0 +1,15 @@
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_1620/obj/Debug/net8.0/Baekjoon_1620.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_1620/obj/Debug/net8.0/Baekjoon_1620.AssemblyInfoInputs.cache
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_1620/obj/Debug/net8.0/Baekjoon_1620.AssemblyInfo.cs
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_1620/obj/Debug/net8.0/Baekjoon_1620.csproj.CoreCompileInputs.cache
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_1620/obj/Debug/net8.0/Baekjoon_1620.sourcelink.json
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_1620/bin/Debug/net8.0/Baekjoon_1620
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_1620/bin/Debug/net8.0/Baekjoon_1620.deps.json
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_1620/bin/Debug/net8.0/Baekjoon_1620.runtimeconfig.json
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_1620/bin/Debug/net8.0/Baekjoon_1620.dll
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_1620/bin/Debug/net8.0/Baekjoon_1620.pdb
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_1620/obj/Debug/net8.0/Baekjoon_1620.dll
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_1620/obj/Debug/net8.0/refint/Baekjoon_1620.dll
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_1620/obj/Debug/net8.0/Baekjoon_1620.pdb
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_1620/obj/Debug/net8.0/Baekjoon_1620.genruntimeconfig.cache
+/Users/yj-621/Library/git/Baekjoon/Baekjoon_1620/obj/Debug/net8.0/ref/Baekjoon_1620.dll
