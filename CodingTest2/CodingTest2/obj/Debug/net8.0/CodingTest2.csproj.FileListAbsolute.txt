@@ -1,0 +1,15 @@
+D:\git\Baekjoon\CodingTest2\CodingTest2\bin\Debug\net8.0\CodingTest2.exe
+D:\git\Baekjoon\CodingTest2\CodingTest2\bin\Debug\net8.0\CodingTest2.deps.json
+D:\git\Baekjoon\CodingTest2\CodingTest2\bin\Debug\net8.0\CodingTest2.runtimeconfig.json
+D:\git\Baekjoon\CodingTest2\CodingTest2\bin\Debug\net8.0\CodingTest2.dll
+D:\git\Baekjoon\CodingTest2\CodingTest2\bin\Debug\net8.0\CodingTest2.pdb
+D:\git\Baekjoon\CodingTest2\CodingTest2\obj\Debug\net8.0\CodingTest2.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Baekjoon\CodingTest2\CodingTest2\obj\Debug\net8.0\CodingTest2.AssemblyInfoInputs.cache
+D:\git\Baekjoon\CodingTest2\CodingTest2\obj\Debug\net8.0\CodingTest2.AssemblyInfo.cs
+D:\git\Baekjoon\CodingTest2\CodingTest2\obj\Debug\net8.0\CodingTest2.csproj.CoreCompileInputs.cache
+D:\git\Baekjoon\CodingTest2\CodingTest2\obj\Debug\net8.0\CodingTest2.sourcelink.json
+D:\git\Baekjoon\CodingTest2\CodingTest2\obj\Debug\net8.0\CodingTest2.dll
+D:\git\Baekjoon\CodingTest2\CodingTest2\obj\Debug\net8.0\refint\CodingTest2.dll
+D:\git\Baekjoon\CodingTest2\CodingTest2\obj\Debug\net8.0\CodingTest2.pdb
+D:\git\Baekjoon\CodingTest2\CodingTest2\obj\Debug\net8.0\CodingTest2.genruntimeconfig.cache
+D:\git\Baekjoon\CodingTest2\CodingTest2\obj\Debug\net8.0\ref\CodingTest2.dll

@@ -12,9 +12,5 @@
             }
         }
         
-        static bool GroupWord(string word)
-        {
-            return true;
-        }
     }
 }

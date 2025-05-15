@@ -25,17 +25,20 @@
             Node pNode = Find(Root, parent);
             if (pNode == null) return;
 
+            // left자리에 .이 없으면 left가 왼쪽 노드
             if (left != '.')
                 pNode.left = new Node(left);
             if (right != '.')
                 pNode.right = new Node(right);
 
         }
+
         private Node Find(Node node, char data)
         {
             if (node == null) return null;
             if (node.data == data) return node;
 
+            //왼쪽에서 찾고, 못 찾으면 오른쪽에서 다시 탐색
             Node found = Find(node.left, data);
             if (found == null)
                 found = Find(node.right, data);

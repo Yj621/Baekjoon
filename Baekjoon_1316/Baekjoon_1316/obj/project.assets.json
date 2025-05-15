@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Baekjoon\\Baekjoon_1316\\Baekjoon_1316\\Baekjoon_1316.csproj",
+      "projectUniqueName": "D:\\git\\Baekjoon\\Baekjoon_1316\\Baekjoon_1316\\Baekjoon_1316.csproj",
       "projectName": "Baekjoon_1316",
-      "projectPath": "D:\\Baekjoon\\Baekjoon_1316\\Baekjoon_1316\\Baekjoon_1316.csproj",
+      "projectPath": "D:\\git\\Baekjoon\\Baekjoon_1316\\Baekjoon_1316\\Baekjoon_1316.csproj",
       "packagesPath": "C:\\Users\\정윤지\\.nuget\\packages\\",
-      "outputPath": "D:\\Baekjoon\\Baekjoon_1316\\Baekjoon_1316\\obj\\",
+      "outputPath": "D:\\git\\Baekjoon\\Baekjoon_1316\\Baekjoon_1316\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
