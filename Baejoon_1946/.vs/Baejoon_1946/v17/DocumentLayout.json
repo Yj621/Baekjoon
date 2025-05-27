@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\Baekjoon\\Baejoon_1946\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03D30169-8950-4BC1-8E41-71DA08CBCB6F}|Baejoon_1946\\Baejoon_1946.csproj|d:\\git\\baekjoon\\baejoon_1946\\baejoon_1946\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D30169-8950-4BC1-8E41-71DA08CBCB6F}|Baejoon_1946\\Baejoon_1946.csproj|solutionrelative:baejoon_1946\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\Baekjoon\\Baejoon_1946\\Baejoon_1946\\Program.cs",
+              "RelativeDocumentMoniker": "Baejoon_1946\\Program.cs",
+              "ToolTip": "D:\\git\\Baekjoon\\Baejoon_1946\\Baejoon_1946\\Program.cs",
+              "RelativeToolTip": "Baejoon_1946\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:41:44.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

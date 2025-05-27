@@ -1,0 +1,15 @@
+D:\git\Baekjoon\Baejoon_1946\Baejoon_1946\bin\Debug\net8.0\Baejoon_1946.exe
+D:\git\Baekjoon\Baejoon_1946\Baejoon_1946\bin\Debug\net8.0\Baejoon_1946.deps.json
+D:\git\Baekjoon\Baejoon_1946\Baejoon_1946\bin\Debug\net8.0\Baejoon_1946.runtimeconfig.json
+D:\git\Baekjoon\Baejoon_1946\Baejoon_1946\bin\Debug\net8.0\Baejoon_1946.dll
+D:\git\Baekjoon\Baejoon_1946\Baejoon_1946\bin\Debug\net8.0\Baejoon_1946.pdb
+D:\git\Baekjoon\Baejoon_1946\Baejoon_1946\obj\Debug\net8.0\Baejoon_1946.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Baekjoon\Baejoon_1946\Baejoon_1946\obj\Debug\net8.0\Baejoon_1946.AssemblyInfoInputs.cache
+D:\git\Baekjoon\Baejoon_1946\Baejoon_1946\obj\Debug\net8.0\Baejoon_1946.AssemblyInfo.cs
+D:\git\Baekjoon\Baejoon_1946\Baejoon_1946\obj\Debug\net8.0\Baejoon_1946.csproj.CoreCompileInputs.cache
+D:\git\Baekjoon\Baejoon_1946\Baejoon_1946\obj\Debug\net8.0\Baejoon_1946.sourcelink.json
+D:\git\Baekjoon\Baejoon_1946\Baejoon_1946\obj\Debug\net8.0\Baejoon_1946.dll
+D:\git\Baekjoon\Baejoon_1946\Baejoon_1946\obj\Debug\net8.0\refint\Baejoon_1946.dll
+D:\git\Baekjoon\Baejoon_1946\Baejoon_1946\obj\Debug\net8.0\Baejoon_1946.pdb
+D:\git\Baekjoon\Baejoon_1946\Baejoon_1946\obj\Debug\net8.0\Baejoon_1946.genruntimeconfig.cache
+D:\git\Baekjoon\Baejoon_1946\Baejoon_1946\obj\Debug\net8.0\ref\Baejoon_1946.dll
