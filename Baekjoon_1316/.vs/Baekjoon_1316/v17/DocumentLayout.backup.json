@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\git\\Baekjoon\\Baekjoon_1316\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9438BD33-6F07-486A-B509-3138326B4AA6}|Baekjoon_1316\\Baekjoon_1316.csproj|d:\\git\\baekjoon\\baekjoon_1316\\baekjoon_1316\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9438BD33-6F07-486A-B509-3138326B4AA6}|Baekjoon_1316\\Baekjoon_1316.csproj|solutionrelative:baekjoon_1316\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A51FF61E-4F52-47CA-83E2-1EF7061BAA20}|Baekjoon_1316\\Baekjoon_1316.csproj|d:\\git\\baekjoon\\baekjoon_1316\\baekjoon_1316\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51FF61E-4F52-47CA-83E2-1EF7061BAA20}|Baekjoon_1316\\Baekjoon_1316.csproj|solutionrelative:baekjoon_1316\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +24,9 @@
               "RelativeDocumentMoniker": "Baekjoon_1316\\Program.cs",
               "ToolTip": "D:\\git\\Baekjoon\\Baekjoon_1316\\Baekjoon_1316\\Program.cs",
               "RelativeToolTip": "Baekjoon_1316\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T12:46:59.394Z",
+              "WhenOpened": "2025-09-04T05:18:01.851Z",
               "EditorCaption": ""
             }
           ]
