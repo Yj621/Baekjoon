@@ -1,0 +1,15 @@
+D:\git\Baekjoon\Baekjoon_16401\Baekjoon_16401\bin\Debug\net8.0\Baekjoon_16401.exe
+D:\git\Baekjoon\Baekjoon_16401\Baekjoon_16401\bin\Debug\net8.0\Baekjoon_16401.deps.json
+D:\git\Baekjoon\Baekjoon_16401\Baekjoon_16401\bin\Debug\net8.0\Baekjoon_16401.runtimeconfig.json
+D:\git\Baekjoon\Baekjoon_16401\Baekjoon_16401\bin\Debug\net8.0\Baekjoon_16401.dll
+D:\git\Baekjoon\Baekjoon_16401\Baekjoon_16401\bin\Debug\net8.0\Baekjoon_16401.pdb
+D:\git\Baekjoon\Baekjoon_16401\Baekjoon_16401\obj\Debug\net8.0\Baekjoon_16401.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Baekjoon\Baekjoon_16401\Baekjoon_16401\obj\Debug\net8.0\Baekjoon_16401.AssemblyInfoInputs.cache
+D:\git\Baekjoon\Baekjoon_16401\Baekjoon_16401\obj\Debug\net8.0\Baekjoon_16401.AssemblyInfo.cs
+D:\git\Baekjoon\Baekjoon_16401\Baekjoon_16401\obj\Debug\net8.0\Baekjoon_16401.csproj.CoreCompileInputs.cache
+D:\git\Baekjoon\Baekjoon_16401\Baekjoon_16401\obj\Debug\net8.0\Baekjoon_16401.sourcelink.json
+D:\git\Baekjoon\Baekjoon_16401\Baekjoon_16401\obj\Debug\net8.0\Baekjoon_16401.dll
+D:\git\Baekjoon\Baekjoon_16401\Baekjoon_16401\obj\Debug\net8.0\refint\Baekjoon_16401.dll
+D:\git\Baekjoon\Baekjoon_16401\Baekjoon_16401\obj\Debug\net8.0\Baekjoon_16401.pdb
+D:\git\Baekjoon\Baekjoon_16401\Baekjoon_16401\obj\Debug\net8.0\Baekjoon_16401.genruntimeconfig.cache
+D:\git\Baekjoon\Baekjoon_16401\Baekjoon_16401\obj\Debug\net8.0\ref\Baekjoon_16401.dll
