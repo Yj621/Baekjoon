@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\Baekjoon\\Baekjoon_19954\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B123B1E-7136-4845-B2F2-227F3C8E8792}|Baekjoon_19954\\Baekjoon_19954.csproj|d:\\git\\baekjoon\\baekjoon_19954\\baekjoon_19954\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B123B1E-7136-4845-B2F2-227F3C8E8792}|Baekjoon_19954\\Baekjoon_19954.csproj|solutionrelative:baekjoon_19954\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\Baekjoon\\Baekjoon_19954\\Baekjoon_19954\\Program.cs",
+              "RelativeDocumentMoniker": "Baekjoon_19954\\Program.cs",
+              "ToolTip": "D:\\git\\Baekjoon\\Baekjoon_19954\\Baekjoon_19954\\Program.cs",
+              "RelativeToolTip": "Baekjoon_19954\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T07:16:40.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
